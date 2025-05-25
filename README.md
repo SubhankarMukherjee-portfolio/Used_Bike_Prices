@@ -55,5 +55,5 @@ PDF File = "https://github.com/SubhankarMukherjee-portfolio/Used_Bike_Prices/blo
 
 
 
-##Final Observations & Storyline
+## Final Observations & Storyline
 The used bike market analysis revealed 1,500 bike models sold across Indian cities, with Delhi leading in both total sales (1,277 units) and number of models (622). The Royal Enfield Classic 350cc (2017) emerged as the most popular model. The average bike price was approximately ₹1.03 lakh, with an average mileage of 44.88 kmpl and average power of 27.29 BHP. Sales peaked for models manufactured between 2010 and 2020, showing a steady rise in both sales and price, with some years exceeding ₹170K in average price. Bikes priced between ₹50K to ₹1.5L showed the highest sales and optimal balance of mileage and power. First-owner bikes accounted for 6,054 sales, outperforming later owners and averaging a higher mileage of 45.22 kmpl. Visual trends also highlighted that as power increased, mileage generally decreased, especially in higher price brackets. A total of over 8 million kilometers were driven by bikes in the mid-price range, emphasizing buyer trust in performance at that tier. The dashboards provided an in-depth view of market trends across time, ownership, and price, enabling strategic insight for buyers, sellers, and dealerships.
