@@ -3,7 +3,7 @@ This Power BI project analyzes used bike market data across major Indian cities 
 
 
 ## Dataset used
-Dataset = ""
+Dataset = "https://github.com/SubhankarMukherjee-portfolio/Used_Bike_Prices/blob/main/bikes.csv"
 
 
 ## Objectives of the project
@@ -29,10 +29,10 @@ Dataset = ""
 
 
 ## Power BI file
-Power BI File = ""
+Power BI File = "https://github.com/SubhankarMukherjee-portfolio/Used_Bike_Prices/blob/main/bikes.pbix"
 
 ## PDF file of Dashboard
-PDF File = ""
+PDF File = "https://github.com/SubhankarMukherjee-portfolio/Used_Bike_Prices/blob/main/bikes.pdf"
 
 
 ![image](https://github.com/user-attachments/assets/556b6ce0-9d89-4321-b45c-3074ec17cb45)
